@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Poppins:wght@100;300;600;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,400&display=swap');
 
 .header{
-    margin-top: 50px;
+    margin-top: 10px;
 }
 
 .header-titles{
@@ -14,14 +14,14 @@
 
 .header-title-sm{
     position: absolute ;
-    top: 13%;
+    top: 8%;
     font-size: 30px;
     color: #666;
     font-weight: 900;
 }
 .header-title-lg{
     position: absolute;
-    top: 15%;
+    top: 10%;
     font-size: 100px;
     font-style: italic;
     text-shadow: 5px 2px 5px #444;
@@ -32,5 +32,7 @@
     height: 600px;
     margin-top: 80px;
     object-fit: cover;
+    /* filter: brightness(50%) */
+
 }
 

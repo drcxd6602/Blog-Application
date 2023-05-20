@@ -1,4 +1,4 @@
-import "./header.css"
+import "./header.css";
 import bg from "../../assets/blog-app-home-bg.jpg";
 
 const Header = () => {
@@ -10,11 +10,11 @@ const Header = () => {
       </div>
       <img
         className="header-img"
-        src="https://images.pexels.com/photos/2589456/pexels-photo-2589456.jpeg?auto=compress&cs=tinysrgb&w=1600"
+        src="https://images.pexels.com/photos/1222561/pexels-photo-1222561.jpeg?auto=compress&cs=tinysrgb&w=1600"
         alt=""
       />
     </div>
   );
-}
+};
 
-export default Header
+export default Header;
